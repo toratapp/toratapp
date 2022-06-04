@@ -13,7 +13,7 @@
 - Interaction design
 - Graphic design
 - WordPress
-- Adobe: Illustrator, Photoshop, InDesign, XD, Lightroom
+- Adobe: XD, Illustrator, Photoshop, InDesign, Lightroom
 
 :envelope: You can reach me on [My LinkedIn page](https://www.linkedin.com/in/toraoeidsvag)
 
