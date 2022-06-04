@@ -1,5 +1,7 @@
 👋 Hi, I’m Tora Eidsvåg
+
 :mortar_board: I'm studying to become a Front-end Developer
+
 :briefcase: Currently working as a Graphic designer at Solvangs Dekorbyrå
 
 :gem: Skills:
