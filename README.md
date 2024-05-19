@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - JavaScript
+- React
 - REST APIs
 - User Experience design
 - Interaction design
