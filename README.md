@@ -5,15 +5,16 @@
 :briefcase: Currently working as a Graphic designer at Solvangs Dekorbyrå
 
 :gem: Skills:
-- HTML
-- CSS
+- HTML & CSS
 - JavaScript
 - React
+- Bootstrap
+- Tailwind
 - REST APIs
+- WordPress
 - User Experience design
 - Interaction design
 - Graphic design
-- WordPress
 - Adobe: XD, Illustrator, Photoshop, InDesign, Lightroom
 
 :envelope: You can reach me on [My LinkedIn page](https://www.linkedin.com/in/toraoeidsvag)
